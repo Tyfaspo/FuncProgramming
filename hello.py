@@ -1,6 +1,7 @@
 a = int(input('Enter A:\n'))
 b = int(input('Enter B:\n'))
 
+
 def add(a, b):
     sum = a + b
     print(f'Summ of `a` and `b` = {sum}')
